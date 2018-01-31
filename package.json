@@ -3,7 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.4.4"
+    "version": "3.5.0"
+  },
+  "scripts": {
+    "start": "hexo server",
+    "g": "hexo generate",
+    "d": "hexo deploy"
   },
   "description": "my github blog",
   "dependencies": {

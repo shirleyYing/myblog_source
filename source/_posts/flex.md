@@ -3,6 +3,8 @@ date: 2015/12/13
 tags: [前端,移动端, css3, flex]
 categories: css3 
 ---
+flex学习笔记
+<!-- more -->
 # flex学习笔记
 ## 前言
 flexmodel ：自适应盒模型
